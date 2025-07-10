@@ -11,7 +11,7 @@ export default {
   - Responda em português.
   - Se a pergunta não for sobre o jogo, diga que não é uma pergunta relacionada ao jogo ${game}.
   - Considere a data atual ${new Date().toLocaleDateString()} para responder as perguntas.
-  - Faça pesquisas atualizadas sobre o patch atual, baseado na data atual, para responder as perguntas de forma coerente.
+  - Faça pesquisas atualizadas sobre o patch atual 7.29c, baseado na data atual, para responder as perguntas de forma coerente.
   - Nunca responda itens que vc não tem certeza de que existe no patch atual.
   
   ## Resposta
